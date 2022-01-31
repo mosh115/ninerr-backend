@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.402807ec.css",
+    "main.js": "/static/js/main.1b8b8591.js",
+    "static/media/16.jpg": "/static/media/16.03bd5d881e2eb41b8064.jpg",
+    "static/media/14.jpg": "/static/media/14.f9e92d6f66ada0bc6824.jpg",
+    "static/media/4-9-4.jpg": "/static/media/4-9-4.b79539afd4caac4e6129.jpg",
+    "static/media/wordpress.jpg": "/static/media/wordpress.faab1cdfb59118b1d856.jpg",
+    "static/media/19-9-4.jpg": "/static/media/19-9-4.84f5550ac1cf0c761409.jpg",
+    "static/media/social-media.jpg": "/static/media/social-media.845beb49483a9f143ab0.jpg",
+    "static/media/28-9-4.jpg": "/static/media/28-9-4.9d5e2f7a99fd2b32073a.jpg",
+    "static/media/20-9-4.jpg": "/static/media/20-9-4.b8f9d53fdb6d89f8bbe0.jpg",
+    "static/media/voice-over.jpg": "/static/media/voice-over.3e9a1dd6c7092b09af44.jpg",
+    "static/media/21-9-4.jpg": "/static/media/21-9-4.bebd62cdcda743701982.jpg",
+    "static/media/logo-design.jpg": "/static/media/logo-design.290d55d1e609af9ba765.jpg",
+    "static/media/video-explainer.jpg": "/static/media/video-explainer.d76f02d0ac1b9829f6b2.jpg",
+    "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.9535d77ef867bef91bc5.ttf",
+    "static/media/WorkSans-Regular.ttf": "/static/media/WorkSans-Regular.1cafe0d5298ed68180c8.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/cameralogo.png": "/static/media/cameralogo.cc70df55a5aabd2f268e.png",
+    "static/media/MeriendaOne-Regular.ttf": "/static/media/MeriendaOne-Regular.c1220afcf0cceab9bd8b.ttf",
+    "static/media/loader.svg": "/static/media/loader.77b7252a78c9017667cafe36e55b8037.svg",
+    "static/media/business.svg": "/static/media/business.fabc3a7adb7dbd421fd4ce97fba02fd4.svg",
+    "static/media/data.svg": "/static/media/data.855fe95339ae1a6c45305f3ee7f411ba.svg",
+    "static/media/music-audio.svg": "/static/media/music-audio.ede4c901ce6aa10ec7766daf18cbd2e4.svg",
+    "static/media/graphics-design.svg": "/static/media/graphics-design.91dfe44b284b4804f627e836832a521c.svg",
+    "static/media/writing-translation.svg": "/static/media/writing-translation.a787f2fbd210a1cd1bf2962c252c1013.svg",
+    "static/media/lifestyle.svg": "/static/media/lifestyle.112b3486a64f63e20027ede2ce43108f.svg",
+    "static/media/video-animation.svg": "/static/media/video-animation.1356999deae86b599ee3fcf37fb15caf.svg",
+    "static/media/programming.svg": "/static/media/programming.6ee5a90126f5bd6bb1a83b2465df5556.svg",
+    "static/media/online-marketing.svg": "/static/media/online-marketing.a3e97948e61e165ed4e6538d60ee7efb.svg",
+    "index.html": "/index.html",
+    "main.402807ec.css.map": "/static/css/main.402807ec.css.map",
+    "main.1b8b8591.js.map": "/static/js/main.1b8b8591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402807ec.css",
+    "static/js/main.1b8b8591.js"
+  ]
+}
